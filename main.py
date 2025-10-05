@@ -101,7 +101,7 @@ def protein_calculator():
 
 
 # 📄 HTML Documentation Page
-@app.route("/")
+@app.route("/doc")
 def docs():
     return """
     <html>
